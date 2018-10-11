@@ -40,7 +40,7 @@ You can get ubuntu from here: http://releases.ubuntu.com/
 
 The easy option is this:
 ```
-sudo add-apt-repoistory ppa:xorg-edgers/ppa
+sudo add-apt-repository ppa:xorg-edgers/ppa
 sudo apt-get update
 sudo apt-get install nvidia-_YourPrefferedVersion_
 ```
